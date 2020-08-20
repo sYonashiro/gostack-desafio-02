@@ -33,6 +33,11 @@ app.put("/repositories/:id", (request, response) => {
   const { title, url, techs } = request.body;
 
   const index = repositories.findIndex(repo => repo.id === id);
+  
+  if (index < 0) {
+    return response.status(400).json({ error: 'Repository not found.' });
+  }
+
   const repo = { ...repositories[index], title, url, techs, };
 
   repositories[index] = repo;
