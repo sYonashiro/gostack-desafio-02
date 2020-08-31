@@ -16,10 +16,10 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 ```bash
 
     # Clonar o repositório
-    $ git clone https://github.com/sYonashiro/gostack-repository-api
+    $ git clone https://github.com/sYonashiro/gostack-desafio-02
 
     # Entrar no diretório
-    $ cd gostack-repository-api
+    $ cd gostack-desafio-02
 
     # Instalar as dependências
     $ yarn install
