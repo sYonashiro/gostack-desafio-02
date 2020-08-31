@@ -1,5 +1,5 @@
 ## 🔖&nbsp; Sobre
-O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack**, referente ao **Desafio 1: Conceitos do Node.js**.
+O projeto é uma API desenvolvida dentro do curso **Bootcamp GoStack**, referente ao **Desafio 2: Conceitos do Node.js**.
 
 ## 🚀 Tecnologias utilizadas
 
